@@ -1,8 +1,8 @@
 # Mapping_Earthquakes
 Using APIs to create interactive maps displaying location and magnitude of earthquakes using GeoJSON data
 ## Data Citation
-The Earthquake data is from [earthquake.usgs.gov](https://earthquake.usgs.gov/)
-Map API calls are processed from [Mapbox](https://www.mapbox.com/)
+The Earthquake data is from [earthquake.usgs.gov](https://earthquake.usgs.gov/).
+Map API calls are processed from [Mapbox](https://www.mapbox.com/).
 [Leaflet](https://leafletjs.com/) is the JavaScript library used to format the API information.
 ## Overview
 The goal of the project was to create an interactive map showing earthquake data from the past 7 days. The JavaScript code is in the [challenge_logic.js](https://github.com/RuthLD/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/js/challenge_logic.js) file and the HTML code for the site is in the [index.html](https://github.com/RuthLD/Mapping_Earthquakes/blob/main/Earthquake_Challenge/index.html) file.
